@@ -19,5 +19,5 @@ criaCartao(
 criaCartao(
     'Lingua inglesa',
     'Como se diz porque em Inglês?',
-    'porque em ingles é because'
+    'Porque em ingles é (because)'
 )
